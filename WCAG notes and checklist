@@ -28,3 +28,31 @@ How it could be improved:  Make sure everything clickable can also be accessed
 Library Rooms Page
 Booking or selecting rooms feels like it’s mainly designed for mouse use.
 How it could be improved:  Allow users to move through booking options using only the keyboard.
+
+
+
+-- Understandable --
+
+Support Page (forms)
+Some inputs don’t fully explain what you’re supposed to type in, especially if you’re new to the app.
+How it could be improved:  Add easy to read labels or instructions for each input.
+
+Events Page
+Some buttons or actions aren’t clear at first glance.
+How it could be improved:  Use easier to read wording so users know what will happen.
+
+Navigation
+The layout is mostly the same, which is good, but it’s not always obvious what page you’re currently on.
+How it could be improved:  You could Highlight the current page in the navigation bar.
+
+
+
+-- Robust --
+
+Events Page (recommendations / filtering)
+When the page updates (like showing new events), it possible it might not be obvious for screen reader users.
+How it could be improved:  Make it so that when the page updates an announced is made so users know something changed.
+
+All Pages
+In some segments of the app could be made in a way that isn’t fully standard (like using general containers for buttons). And make it a bit more eye catching.
+How it could be improved:  Use more structured elements so assistive tech can understand it better.
