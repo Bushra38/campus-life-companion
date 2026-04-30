@@ -1,1 +1,15 @@
+WCAG Checklist
+-- Perceivable --
+
+Homepage
+One thing I noticed is that some of the images don’t really explain themselves if you couldn’t see them. Like if someone was using a screen reader, they might not know what the image is about.
+How it could be improved:  Just adding short descriptions to images so they can be read out properly.
+
+Events Page
+Some of the text (especially smaller text) looks kind of light compared to the background. It’s readable but not very strong.
+How it could be improved:  Use slightly darker text so it stands out more and is easier to read.
+
+Support Page
+The messages (like errors or success) seem to depend a lot on colour, like red or green.
+How it could be improved:  Add actual text explanations so users don’t have to rely on colour only.
 
