@@ -13,3 +13,18 @@ Support Page
 The messages (like errors or success) seem to depend a lot on colour, like red or green.
 How it could be improved:  Add actual text explanations so users don’t have to rely on colour only.
 
+
+
+-- Operable --
+
+Navigation Bar (all pages)
+When using the keyboard (tab), it’s a bit hard to tell where you are on the page sometimes.
+How it could be improved:  Make it more obvious which item is selected when tabbing through.
+
+Events Page
+The event cards look clickable, but they might not fully work using just the keyboard.
+How it could be improved:  Make sure everything clickable can also be accessed using keyboard controls.
+
+Library Rooms Page
+Booking or selecting rooms feels like it’s mainly designed for mouse use.
+How it could be improved:  Allow users to move through booking options using only the keyboard.
